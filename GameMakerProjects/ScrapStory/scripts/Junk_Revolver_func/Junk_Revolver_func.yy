@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"Junk_Revolver_func",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Junk_Revolver_func",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
